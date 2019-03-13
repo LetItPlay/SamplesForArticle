@@ -1,4 +1,4 @@
-Samples for medium article https://medium.com/p/d8d8bc3b415c
+Samples for medium article
 
 eos is avaliable here : https://github.com/EOSIO/eos
 
@@ -24,11 +24,12 @@ ContractGame2.cpp
 time line of transactions after init here: 
 commands.sh
 
-decompilation info in folder
+decompilation info in folder 
 
 ./decompile
 
 decompiled.c - file with full contract game2 decompilation
+
 decompiled_short.c contains only decompilation of 
 ```
 extern "C" {
@@ -81,5 +82,4 @@ i0 *= i1;
 j0 = (u64)(i0);
 (*Z_envZ_printuiZ_vj)(j0);
 ```
-
 #authored by qpIlIpp (c) LetItPlay, 2019
